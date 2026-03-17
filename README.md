@@ -7,8 +7,6 @@ Projeto desenvolvido em Python com SQLite para praticar lógica de programação
 - Listar clientes cadastrados
 - Atualizar informações
 - Remover clientes
-- Validar nome, email e ID
-- Menu interativo no terminal
 
 ## Tecnologias utilizadas
 - Python
